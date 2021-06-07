@@ -1,0 +1,26 @@
+.productBody{
+    display: flex;
+    flex-direction: row;
+}
+.productFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 100px;
+}
+.productCounter{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+button{
+    display: flex;
+    flex-direction: column;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    height: 40px;
+    align-items: center;
+}

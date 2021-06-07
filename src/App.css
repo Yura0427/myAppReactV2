@@ -1,0 +1,15 @@
+.fa-user-plus,
+.fa-upload {
+    transition: all 0.5s;
+    color: rgba(72, 79, 86, 0.4);
+}
+.fa-user-plus:hover,
+.fa-upload:hover {
+    color: rgba(72, 79, 86, 1);
+    transform: scale(1.2);
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
